@@ -3,6 +3,10 @@
 My name is Nathan Fox, I am a Software Developer and Computer Science student with interests in Aerospace Engineering and Chemistry.
 
 I am currently learning Go and React.
+
+### Languages:
++ Python
++ Java
 <!--
 **Nathan-Fox-github/Nathan-Fox-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
