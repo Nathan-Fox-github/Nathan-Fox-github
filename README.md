@@ -1,12 +1,13 @@
 ## Hi there 👋
 
-My name is Nathan Fox, I am a Software Developer and Computer Science student with interests in Aerospace Engineering and Chemistry.
+My name is Nathan Fox, I am a Software Developer and Computer Science student with interests in Aerospace Engineering and Web Development!
 
-I am currently learning Go and React.
+I'm currently working on my CS4 website and preparing for competitive events.
 
-### Languages:
-+ Python
+### Languages I'm familiar with:
 + Java
++ JavaScript
++ Python
 <!--
 **Nathan-Fox-github/Nathan-Fox-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
